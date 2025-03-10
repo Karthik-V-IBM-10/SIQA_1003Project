@@ -13,6 +13,11 @@ packages:
   gitUrl: https://github.com/Karthik-V-IBM-10
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
+- name: PackX
+  gitServerName: SIQAGitHub
+  gitUrl: https://github.com/prabhakarsag
+  gitUsername: manoj-jannu-IBM
+  gitBranch: main
 services:
 - serviceName: project.siqa_1003.integrations:AlertsCRTandERT
   packages:
