@@ -18,6 +18,11 @@ packages:
   gitUrl: https://github.com/prabhakarsag
   gitUsername: manoj-jannu-IBM
   gitBranch: main
+- name: PackY
+  gitServerName: SIQAGitHub
+  gitUrl: https://github.com/prabhakarsag
+  gitUsername: manoj-jannu-IBM
+  gitBranch: main
 services:
 - serviceName: project.siqa_1003.integrations:AlertsCRTandERT
   packages:
